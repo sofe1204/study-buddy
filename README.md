@@ -6,4 +6,3 @@
 - Tailwind CSS (shadcn/ui)
 - TypeScript
 
-![Poolwater](/public/git-cover.png)
